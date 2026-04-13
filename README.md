@@ -20,3 +20,4 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=votre-clé-anon
 - Vue médecin : saisie des disponibilités uniquement (pas d'accès aux autres)
 - Règles : max 5 jours indisponibles/semaine, max 4 jours WE indisponibles/mois
 - Génération automatique sans 2 nuits consécutives pour le même médecin
+
